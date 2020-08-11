@@ -1,0 +1,19 @@
+.context-list {
+  padding: 15px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+
+  &__list {
+    padding-left: 10px;
+  }
+
+  &__item {
+    padding: 5px;
+    list-style: none;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}

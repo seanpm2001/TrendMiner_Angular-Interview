@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContextListItemComponent should display the name and type 1`] = `
+<tm-context-list-item
+  contextItem={[Function Object]}
+>
+  <div
+    class="item"
+  >
+    <span
+      class="item__name"
+    >
+      Gold
+    </span>
+     - 
+    <span
+      class="item__type"
+    >
+      Batch
+    </span>
+  </div>
+</tm-context-list-item>
+`;

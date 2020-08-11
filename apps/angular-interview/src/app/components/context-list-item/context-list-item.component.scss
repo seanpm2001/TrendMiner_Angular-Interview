@@ -1,0 +1,9 @@
+.item {
+  &__name {
+    font-weight: bold;
+  }
+
+  &__type {
+    text-transform: uppercase;
+  }
+}
